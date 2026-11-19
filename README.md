@@ -106,7 +106,7 @@ The screenshot above shows the dashboard with no filters applied.
 - **DAX:** wrote measures for interactions 
 - **Dashboard design:** created KPI cards, charts, and slicers for platform, gender, interaction type, and interest in a single-page, interactive layout
 - **Business problem framing:** translated a marketing question about targeting, scheduling, and budget into measurable metrics
-- **Data storytelling:** summarized findings into insights and recommendations for a marketing audience
+- **Data storytelling:** summarized findings into insights for a marketing audience
 - **Documentation and version control:** organized the project on GitHub with a clear README and repository structure
 
 ## How to Use
