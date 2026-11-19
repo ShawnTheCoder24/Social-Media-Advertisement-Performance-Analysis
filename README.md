@@ -101,7 +101,7 @@ Steps performed in Power Query:
 The screenshot above shows the dashboard with no filters applied.
 
 ## Skills Demonstrated
-- **Data cleaning and preparation (Power Query):** merged related tables, removed duplicate user IDs, and validated the data so every interaction is counted once
+- **Data cleaning and preparation (Power Query):** merged related tables and removed duplicate user IDs
 - **Data modeling:** built a model around an `ad_events` fact table with user and campaign tables connected through relationships
 - **DAX:** wrote measures for interactions 
 - **Dashboard design:** created KPI cards, charts, and slicers for platform, gender, interaction type, and interest in a single-page, interactive layout
